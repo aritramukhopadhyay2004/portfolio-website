@@ -1,0 +1,25 @@
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (if using npm for any libraries like bootstrap or tailwind via npm)
+node_modules/
+
+# Environment variables
+.env
+
+# Build output (if you have any pre-build or generated folders)
+dist/
+build/
+
+# Compressed files
+*.zip
+*.tar.gz
+
+# IDE settings
+.vscode/
+.idea/
